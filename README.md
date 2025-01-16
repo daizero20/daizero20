@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm zeroday20</h1>
+<h1 align="center">Hi 👋, I'm daizero20</h1>
 <h3 align="center">Entry-Level Engineer🐣</h3>
 
 <p align="left"> <a href="https://twitter.com/daizero_attack" target="blank"><img src="https://img.shields.io/twitter/follow/daizero_attack?logo=twitter&style=for-the-badge" alt="daizero_attack" /></a> </p>
